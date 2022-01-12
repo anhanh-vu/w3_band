@@ -3,6 +3,13 @@
   
 }
 
+/* tablet & mobile */
+@media  (max-width:1023px) {
+.btn {
+    padding: 15px 18px;
+}
+}
+
 /* tablet */
 @media (min-width:740px) and (max-width:1023px) {
 
